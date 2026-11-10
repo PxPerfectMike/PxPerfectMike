@@ -38,6 +38,12 @@ All of them: **[OffByThree Games on Google Play](https://play.google.com/store/a
 | **[MockMaster](https://github.com/PxPerfectMike/MockMaster)** | Type-safe API mocking with record and replay, generated from OpenAPI 3.0 specs. 178 tests. [mockmaster.org](https://mockmaster.org) |
 | **[RailJS](https://github.com/PxPerfectMike/RailJS)** | A lightweight event bus for modular JavaScript apps with strict module isolation |
 
+#### 🤝 Open source contributions
+
+- **[talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt)**: 3 merged PRs: [emoji detection and removal](https://github.com/C-Nedelcu/talk-to-chatgpt/pull/181), [general improvements](https://github.com/C-Nedelcu/talk-to-chatgpt/pull/185), [minimize feature](https://github.com/C-Nedelcu/talk-to-chatgpt/pull/228)
+- **[OpenStreetMap NG](https://github.com/openstreetmap-ng/openstreetmap-ng)**: 6 PRs in review, including [rejecting edits at Null Island](https://github.com/openstreetmap-ng/openstreetmap-ng/pull/210), [auto-closing notes on changeset close](https://github.com/openstreetmap-ng/openstreetmap-ng/pull/209) and [background trace recompression with zstd](https://github.com/openstreetmap-ng/openstreetmap-ng/pull/211)
+- **[FinMind](https://github.com/rohitdash08/FinMind/pull/171)** and **[blogx](https://github.com/Safvan-tsy/blogx/pull/35)**: login anomaly detection; an editor cursor fix (in review)
+
 #### 🧰 Usually working in
 
 TypeScript · Svelte / SvelteKit · React · Node.js · Lua · Godot · Rust · Python
