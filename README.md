@@ -6,7 +6,7 @@ I own **[OffByThree Games](https://offbythree.com)**, where I make indie games a
 
 #### 🎮 Games on Google Play
 
-| | |
+| Game | |
 |---|---|
 | **[Kenning](https://play.google.com/store/apps/details?id=com.offbythree.kenning)** | Five masked strangers describe the same hidden thing. You have to name it. |
 | **[Stack the Ship](https://play.google.com/store/apps/details?id=com.offbythree.stacktheship)** | Time the swinging crane, stack absurd cargo. Bought once, no ads, plays offline. |
@@ -17,7 +17,7 @@ All of them: **[OffByThree Games on Google Play](https://play.google.com/store/a
 
 #### 🗡️ Mods and addons
 
-| | |
+| Project | |
 |---|---|
 | **[Starfall Trail](https://github.com/PxPerfectMike/starfall-trail)** ⏳ | *Pending CurseForge approval.* WoW: Forever. A sparkle trail on the ground and a 3D arrow that lead you to your Questie quest |
 | **[Scuttlebutt](https://github.com/PxPerfectMike/scuttlebutt)** ⏳ | *Pending CurseForge approval.* WoW: Forever. Like, dislike and tag other players; the realm's opinions spread by word of mouth, peer to peer |
@@ -25,7 +25,7 @@ All of them: **[OffByThree Games on Google Play](https://play.google.com/store/a
 
 #### 🚀 Products
 
-| | |
+| Product | |
 |---|---|
 | **[Lettler](https://lettler.com)** | Store sensitive information securely |
 | **[Whipdoc](https://whipdoc.com)** | Lossless PDF compression as a REST API. Shrink PDFs in one call with no quality loss |
@@ -33,7 +33,7 @@ All of them: **[OffByThree Games on Google Play](https://play.google.com/store/a
 
 #### 🛠️ Tools and libraries
 
-| | |
+| Project | |
 |---|---|
 | **[MockMaster](https://github.com/PxPerfectMike/MockMaster)** | Type-safe API mocking with record and replay, generated from OpenAPI 3.0 specs. 178 tests. [mockmaster.org](https://mockmaster.org) |
 | **[RailJS](https://github.com/PxPerfectMike/RailJS)** | A lightweight event bus for modular JavaScript apps with strict module isolation |
