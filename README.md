@@ -2,7 +2,9 @@
 
 I own **[OffByThree Games](https://offbythree.com)**, where I make indie games and custom software. Self-taught, 8+ years in, and still building whatever my brain fixates on. If it solves a fun problem, I'm in.
 
-**Right now:** World of Warcraft: Forever addons, small multiplayer games, and developer tools that save me time and might save you some too.
+**Right now:** shipping games, paid web products, and AI agent tooling by directing AI agents and reviewing every line, plus World of Warcraft: Forever addons on the side.
+
+**Portfolio:** [michaelbakerportfolio.com](https://michaelbakerportfolio.com) · [How I work with AI agents](https://michaelbakerportfolio.com/how-i-work) · [Résumé](https://michaelbakerportfolio.com/resume)
 
 #### 🎮 Games on Google Play
 
