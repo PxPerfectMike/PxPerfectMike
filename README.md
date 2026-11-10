@@ -50,4 +50,6 @@ TypeScript · Svelte / SvelteKit · React · Node.js · Lua · Godot · Rust · 
 
 ---
 
-<sub>Like something I made? Bug reports and ideas are always welcome in the issues.</sub>
+<a href="https://buymeacoffee.com/pxperfectmike"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+
+<sub>Like something I made? Bug reports and ideas are always welcome in the issues, and a coffee keeps the next project coming.</sub>
